@@ -1,0 +1,5 @@
+Console-Based Calculator in Java Overview
+
+This project is a simple console-based calculator developed in Java. It allows users to perform basic arithmetic operations through a menu-driven interface. The application uses separate methods for each operation, accepts user input using the Scanner class, and continues running until the user chooses to exit.
+
+Features Addition Subtraction Multiplication Division Menu-driven interface Continuous calculations using a loop Handles division by zero User-friendly console output Technologies Used Java Scanner Class Methods Switch Statement Do-While Loop How to Run Clone the repository. Open the project in your preferred Java IDE (IntelliJ IDEA, Eclipse, VS Code, etc.). Compile and run the Calculator.java file. Follow the on-screen instructions. Learning Objectives Understand method creation and invocation. Practice user input using Scanner. Implement menu-driven applications. Use loops and conditional statements effectively. Handle common runtime errors such as division by zero.
